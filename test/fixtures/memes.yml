@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  SlNo: MyString
+  Title: MyString
+  tags: MyString
+  description: MyString
+  folder: MyString
+
+two:
+  SlNo: MyString
+  Title: MyString
+  tags: MyString
+  description: MyString
+  folder: MyString
